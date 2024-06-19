@@ -68,5 +68,14 @@ namespace Get_Well_Soon_.Properties {
                 return ResourceManager.GetStream("birthday", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   System.IO.MemoryStream öğesine benzeyen System.IO.UnmanagedMemoryStream türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream cheering {
+            get {
+                return ResourceManager.GetStream("cheering", resourceCulture);
+            }
+        }
     }
 }

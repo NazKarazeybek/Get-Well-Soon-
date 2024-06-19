@@ -121,4 +121,7 @@
   <data name="birthday" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\birthday.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="cheering" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cheering.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
